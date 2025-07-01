@@ -1,0 +1,9 @@
+baseURL = "https://example.org/"
+languageCode = "ja-jp"
+title = "Paulのhugoによるウェブサイト"
+theme = "PaperMod"
+
+[params]
+  # テーマの設定
+  defaultTheme = "light"
+  ShowReadingTime = true
